@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Desenvolve 2023 - Alura Include<br>🌱 I’m currently learning JavaScript, NodeJS, CSS, HTML, Bootrstrap
+Hi 👋, I'm Luis Felipe, 24 years old, Software Engineer student at Universidade Católica de Salvador<br>🔭 I’m currently working on Desenvolve 2023 - Alura Include<br>🌱 I’m currently learning JavaScript, NodeJS, CSS, HTML, Bootrstrap
 
 
 ## 🌐 Socials:

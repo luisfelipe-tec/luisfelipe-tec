@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá 👋, me chamo Luis Felipe, tenho 24 anos, estudante de Engenharia de Software na Universidade Católica de Salvador<br>🔭 Eu estou atualmente trabalhando nos projetos do Desenvolve 2023 - Alura Include<br>🌱Estou atualmente aprendendo JavaScript, NodeJS, CSS, HTML, Bootrstrap
+Olá 👋, me chamo Luis Felipe, tenho 25 anos, estudante de Engenharia de Software na Universidade Católica de Salvador<br>🔭 Eu estou atualmente trabalhando nos projetos do Desenvolve 2023 - Alura Include<br>🌱Estou atualmente aprendendo JavaScript, NodeJS, CSS, HTML, Bootrstrap
 
 
 ## 🌐 Socials:
